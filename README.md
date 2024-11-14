@@ -21,6 +21,3 @@ Technical Instructor at 2U, mentoring students in full-stack development with Ty
 - [Portfolio](http://www.alexissj.net)
 - [LinkedIn](https://linkedin.com/in/alexissj)
 - Email: alexissj16@knights.ucf.edu
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-guy21&show_icons=true&theme=dark)
