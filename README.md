@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alexis 👋 
 
-<!--
-**code-guy21/code-guy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer specializing in Go and JavaScript, building real-time applications and educational tools
 
-Here are some ideas to get you started:
+## Tech Stack
+- Backend: Go, Node.js, WebSockets, RESTful APIs, GraphQL
+- Frontend: React, React Native, Redux, TypeScript
+- Database: PostgreSQL, MongoDB, Redis
+- Cloud/DevOps: AWS, Docker, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building real-time applications with Go and WebSockets
+- Exploring distributed systems and microservices architecture
+- Contributing to open-source Go projects
+- Creating technical content about Go and system design
+
+## Teaching & Mentorship
+Technical Instructor at 2U, mentoring students in full-stack development with TypeScript, Node.js, and React.
+
+## Let's Connect
+- [Portfolio](http://www.alexissj.net)
+- [LinkedIn](https://linkedin.com/in/alexissj)
+- Email: alexissj16@knights.ucf.edu
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-guy21&show_icons=true&theme=dark)
