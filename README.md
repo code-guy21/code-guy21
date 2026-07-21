@@ -1,46 +1,21 @@
-# Hi, I'm Alexis 👋
+# Hi, I'm Alexis
 
-Software Engineer specializing in Go and JavaScript, building real-time systems and 3D interactive applications.
+AI-native technical architect and builder. I direct AI coding agents like Claude Code and Codex to design, build, and own production-grade software. My work is agentic engineering: requirements -> evals -> guardrails -> testing -> ownership.
 
-## 🛠 Tech Stack
+## Current Focus
 
-### Backend
-- Go, Node.js, WebSockets
-- RESTful APIs, GraphQL
-- Real-time Processing
+I'm building PrayerGlow, a production-grade iOS app built with React Native, Go, and AWS. It is pre-launch and targeting an August 2026 release.
 
-### Frontend
-- React, React Native
-- Three.js, WebGL
-- Redux, TypeScript
+The work is powered by a 24-agent / 34-skill AI engineering system, with human review over architecture, UI/UX, correctness, and release readiness.
 
-### Core Systems
-- 3D Graphics & WebAssembly
-- Distributed Systems
-- Real-time Processing
+## Strengths
 
-### Database & Cache
-- PostgreSQL, MongoDB
-- Redis
-- Real-time Data Storage
+- Multi-agent AI engineering workflows
+- Architecture and system design across mobile, backend, and infrastructure
+- AI output review, evaluation design, and guardrails
+- 5 years teaching full-stack web development
+- Bilingual English / Spanish
 
-### Cloud/DevOps
-- AWS (S3, Lambda)
-- Docker, CI/CD
-- System Design
+## Contact
 
-## 🚀 Current Projects
-
-- **PrayerGlow**: 3D interactive prayer application using React Native, Three.js, and Rust/WebAssembly
-- **StudyLoop**: AI-enhanced tutoring platform with real-time session processing
-- **Vibestream**: Real-time music visualization platform
-
-## 🎓 Teaching & Mentorship
-
-Technical Instructor at 2U, mentoring students in full-stack development with TypeScript, Node.js, and React.
-
-## 📫 Let's Connect
-
-- [Portfolio](http://www.alexissj.net)
-- [LinkedIn](https://linkedin.com/in/alexissj)
-- Email: alexissj16@knights.ucf.edu
+asanjavier.dev@gmail.com
